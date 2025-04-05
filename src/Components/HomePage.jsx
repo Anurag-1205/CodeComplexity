@@ -7,7 +7,7 @@ function HomePage() {
 
   const analyzeCode = async () => {
     // TODO: Replace with actual backend call
-    fetch("http://localhost:3000/analyze", {
+    fetch("https://complexity-backend.vercel.app/analyze", {
       method: "POST",
       body: JSON.stringify({
         code: code
