@@ -33,6 +33,8 @@ function getPageContent( pathname ) {
         return <HomePage />;
       case '/about':
         return <AboutPage />;
+      case '/':
+        return <AboutPage />;
       default:
         return (
           <Typography variant="h5" sx={{ textAlign: 'center', py: 4 }}>
