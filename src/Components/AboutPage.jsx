@@ -32,16 +32,16 @@ function About() {
           </Typography>
           <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
             <Typography>
-              Thank you for choosing Code Complexity - Powered by AI! We're excited to have you here and appreciate your trust in our platform.
+              Thank you for choosing Code Complexity – Powered by AI. I am excited to have you here and truly appreciate your trust in my platform.
             </Typography>
             <Typography>
-              Our mission is to help developers like you understand and optimize your code by leveraging cutting-edge AI technology. Our tool analyzes your code's complexity and provides valuable insights to help you write cleaner, more efficient, and maintainable software.
+              My mission is to help developers like you understand and optimize your code by leveraging cutting-edge AI technology. I built this website to analyze your code’s complexity and provide valuable insights to help you write cleaner, more efficient, and maintainable software.
             </Typography>
             <Typography>
-              This website was proudly built by Anurag Kashal. We're continually working to improve and expand our services, and your feedback is invaluable in that journey.
+              I am Anurag Kashal, the sole creator of this platform. I am constantly working to improve and expand its capabilities, and your feedback plays a crucial role in that journey.
             </Typography>
             <Typography>
-              Thank you for being part of our community and for helping us grow. We look forward to supporting you on your coding adventures and celebrating your successes along the way!
+              If you have any questions, suggestions, or just want to connect, feel free to reach out to me on <a href="https://www.linkedin.com/in/anurag-kaushal-214786227/" target="_blank" rel="noopener noreferrer" style={{ color: '#0A66C2', textDecoration: 'none' }}>LinkedIn</a>. Thank you for being a part of the community!
             </Typography>
           </Box>
         </Paper>
